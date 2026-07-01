@@ -4,16 +4,15 @@
 
 font-family: "Gravitas One", serif;
   font-weight: 400;
-  font-style: normal;;
+  font-style: normal;
   text-align: center;
 
 color: azure;
 
 }
 
-.body {
-
-    color: black;
+body {
+background-color: black;
 
 }
 
@@ -29,4 +28,11 @@ color: azure;
     font-family: 'Courier New', Courier, monospace;
     text-align: left;
     color: aliceblue;
+}
+
+footer {
+
+    text-align: center;
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
 }
