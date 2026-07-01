@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Bentham&family=Gravitas+One&family=Lobster&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+.hh{
+
+font-family: "Gravitas One", serif;
+  font-weight: 400;
+  font-style: normal;;
+  text-align: center;
+
+color: azure;
+
+}
+
+body {
+
+    background-color: black;
+
+}
+
+.nn {
+
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+    color: antiquewhite;
+}
+
+.pp {
+
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+    color: aliceblue;
+}
